@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="power-wifi-glands-drill-guide.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4378367"
+     inkscape:cx="338.70328"
+     inkscape:cy="261.85171"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.327882;stroke-linejoin:bevel;stroke-opacity:1"
+       id="rect1"
+       width="119"
+       height="73"
+       x="43.427509"
+       y="22.081783" />
+    <g
+       id="g2"
+       transform="translate(15.614179,-90.041768)">
+      <g
+         id="g3"
+         transform="translate(-9.2791865,16.933338)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.432832;stroke-linejoin:bevel;stroke-opacity:1"
+           id="rect2"
+           width="29.567169"
+           height="29.567169"
+           x="111.47942"
+           y="117.73593" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.365717;stroke-linejoin:bevel;stroke-opacity:1"
+           id="path2"
+           cx="126.26301"
+           cy="132.51952"
+           r="9.8171415" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.53705;stroke-linejoin:bevel"
+           id="path4-31"
+           cx="126.26301"
+           cy="132.51952"
+           r="0.5" />
+      </g>
+      <g
+         id="g4"
+         transform="translate(-10.761866,-81.288817)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.262157;stroke-linejoin:bevel;stroke-opacity:1"
+           id="rect3"
+           width="16.737843"
+           height="16.737843"
+           x="53.489765"
+           y="201.30399" />
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.32318;stroke-linejoin:bevel;stroke-opacity:1"
+           id="path3"
+           cx="61.858688"
+           cy="209.67291"
+           rx="2.8384099"
+           ry="2.8384101" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.53705;stroke-linejoin:bevel"
+           id="path4-4"
+           cx="61.858685"
+           cy="209.67291"
+           r="0.5" />
+      </g>
+    </g>
+  </g>
+</svg>
